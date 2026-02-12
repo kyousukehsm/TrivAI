@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="400" alt="TrivAI Logo">
+  <img src="logo.jpg" width="400" alt="TrivAI Logo">
 </p>
 
 # TrivAI
