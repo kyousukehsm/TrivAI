@@ -1,0 +1,7 @@
+{
+  "name": "TrivAI",
+  "description": "A next-gen trivia game featuring a dynamic AI host with distinct personalities. Features real-time voice chat, verified facts via Google Search, and expressive TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
