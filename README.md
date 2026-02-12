@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="400" alt="TrivAI Logo">
+</p>
+
 # TrivAI
 
 TrivAI is a generative game-show experience. Unlike traditional, static quiz applications, TrivAI leverages large language models to create a dynamic environment where every question, reaction, and commentary is generated in real-time by a virtual host.
