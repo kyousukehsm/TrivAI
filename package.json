@@ -1,7 +1,9 @@
 {
   "name": "trivai",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0", 
+  "description": "A generative AI-powered trivia game with an interactive talking host.",
+  "author": "kyousukehsm",
   "type": "module",
   "scripts": {
     "dev": "vite",
